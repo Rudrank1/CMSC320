@@ -55,6 +55,7 @@ st.sidebar.code("""
 MSE: 0.0989
 MAE: 0.2292
 RMSE: 0.3145
+R^2: 0.8902
 """)
 
 st.sidebar.write("**XGBoost**")
@@ -62,6 +63,7 @@ st.sidebar.code("""
 MSE: 0.0967
 MAE: 0.2299
 RMSE: 0.3110
+R^2: 0.8926
 """)
 
 st.title("Professor Rating Predictor")
