@@ -1,0 +1,42 @@
+
+Analyzing Question 1...
+
+Statistical Analysis for Question 1:
+
+Hypothesis 1 (Political Leaning):
+t-statistic: 1.2860
+p-value: 0.1995
+
+Hypothesis 2 (Gender):
+t-statistic: -0.5193
+p-value: 0.6040
+
+==================================================
+
+Analyzing Question 2...
+
+Statistical Analysis for Question 2:
+
+Hypothesis 1 (Political Leaning):
+t-statistic: -0.8033
+p-value: 0.4225
+
+Hypothesis 2 (Gender):
+t-statistic: -1.1719
+p-value: 0.2422
+
+==================================================
+
+Analyzing Question 3...
+
+Statistical Analysis for Question 3:
+
+Hypothesis 1 (Political Leaning):
+t-statistic: 0.8026
+p-value: 0.4229
+
+Hypothesis 2 (Gender):
+t-statistic: 0.1673
+p-value: 0.8672
+
+==================================================
