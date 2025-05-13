@@ -1,0 +1,30 @@
+
+TIME SERIES ANALYSIS
+==================================================
+
+1. TREND ANALYSIS
+3-day MA trend at end: 67.7
+7-day MA trend at end: 69.8
+30-day MA trend at end: 93.3
+
+2. DECOMPOSITION ANALYSIS
+Trend strength: 91.5
+Seasonal strength: 25.9
+Residual strength: 22.7
+
+3. DICKEY-FULLER TEST
+DF Statistic: -1.420
+p-value: 0.573
+Series is non-stationary
+
+4. ARIMA MODEL
+Optimal parameters (p,d,q): (3, 2, 1)
+RMSE: 37.41
+MAE: 35.24
+R2 Score: -0.343
+
+5. WEATHER IMPACT
+t_max correlation: -0.315 (p=0.079)
+t_min correlation: -0.341 (p=0.056)
+precipitation correlation: -0.205 (p=0.261)
+wind_speed correlation: 0.235 (p=0.195)
